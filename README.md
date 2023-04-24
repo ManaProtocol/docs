@@ -1,0 +1,2 @@
+# docs
+Mana Protocol Documentation
