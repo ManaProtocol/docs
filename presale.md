@@ -1,4 +1,4 @@
-# Presale
+# 💸 Presale
 
 {% hint style="info" %}
 Mana Protocol will launch when the presale amount reaches at least 10 ETH.

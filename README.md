@@ -1,4 +1,6 @@
-# Introduction
+# 👋 Introduction
+
+<figure><img src=".gitbook/assets/cardcaptor-sakura-clear-card-sakura-kinomoto.gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Currently there are no mana tokens in circulation as we are still in our [presale phase](presale.md). Beware of fake tokens with similar names. Only interact with tokens mentioned by us.

@@ -1,4 +1,4 @@
-# Addresses
+# 🔢 Addresses
 
 This table includes all blockchain addresses associated with Mana Protocol.
 

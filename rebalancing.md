@@ -1,4 +1,4 @@
-# Rebalancing
+# ⚖ Rebalancing
 
 ## How does rebalancing work?
 
